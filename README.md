@@ -5,26 +5,27 @@ We have used bootstrap to create a responsive subscribe form. We have used jQuer
 execute PHP code without page refreshing. 
 If you want to create subscribe and unsubscribe system in PHP with MYSQL database then you can do it with it. 
 
-Features
-Subscribe form 
-Responsive form 
-Unsubscribe 
-Confirm all emails 
-No spam
+# Features
+Subscribe form <br>
+Responsive form <br>
+Unsubscribe <br>
+Confirm all emails <br>
+No spam <br>
 # Technology Used
-PHP
-MYSQL
-AJAX
-Bootstrap
-jQuery
+PHP <br>
+MYSQL <br>
+AJAX <br>
+Bootstrap <br>
+jQuery<br> 
 
 # Installation
-This is the complete source code for the Subscribe system in PHP with MYSQL database.
-First of all, get subscribe and unsubscribe system in PHP from here . You can watch demo in demo section. Get Subscribe system and download zip file .
-Extract zip file and move on your server . You can execute it on your local server or live server.
-Import database from the database folder . You can find database folder .
-Edit config.php file and set your host , database name , username and password .
-Execute the code . You can contact for any help and support .
+This is the complete source code for the <a href="https://technosmarter.com/item/subscribe-system-in-php-and-ajax-source-code">Subscribe system in PHP with MYSQL database </a>.<br>
+1. First of all, get subscribe and unsubscribe system in PHP from here .<br>
+You can watch demo in demo section. Get Subscribe system and download zip file .<br>
+Extract zip file and move on your server . You can execute it on your local server or live server.<br>
+Import database from the database folder . You can find database folder .<br>
+Edit config.php file and set your host , database name , username and password .<br>
+Execute the code . You can contact for any help and support .<br>
 This is complete source code for Subscribe system in PHP and MYSQL .
 You will get instant reply feature in this subscribe system in PHP.
 # Developer
