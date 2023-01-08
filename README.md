@@ -21,12 +21,12 @@ jQuery<br>
 # Installation
 This is the complete source code for the <a href="https://technosmarter.com/item/subscribe-system-in-php-and-ajax-source-code">Subscribe system in PHP with MYSQL database </a>.<br>
 1. First of all, get subscribe and unsubscribe system in PHP from here .<br>
-You can watch demo in demo section. Get Subscribe system and download zip file .<br>
-Extract zip file and move on your server . You can execute it on your local server or live server.<br>
-Import database from the database folder . You can find database folder .<br>
-Edit config.php file and set your host , database name , username and password .<br>
-Execute the code . You can contact for any help and support .<br>
-This is complete source code for Subscribe system in PHP and MYSQL .
+2. You can watch demo in demo section. Get Subscribe system and download zip file .<br>
+3. Extract zip file and move on your server . You can execute it on your local server or live server.<br>
+4. Import database from the database folder . You can find database folder .<br>
+5. Edit config.php file and set your host , database name , username and password .<br>
+6. Execute the code . You can contact for any help and support .<br>
+7. This is complete source code for Subscribe system in PHP and MYSQL .
 You will get instant reply feature in this subscribe system in PHP.
 # Developer
 <a href="https://technosmarter.com/">Techno Smarter</a>
