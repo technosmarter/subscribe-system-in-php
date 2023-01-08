@@ -25,8 +25,8 @@ This is the complete source code for the <a href="https://technosmarter.com/item
 3. Extract zip file and move on your server . You can execute it on your local server or live server.<br>
 4. Import database from the database folder . You can find database folder .<br>
 5. Edit config.php file and set your host , database name , username and password .<br>
-6. Execute the code . You can contact for any help and support .<br>
-7. This is complete source code for Subscribe system in PHP and MYSQL .
+6. Execute the code . You can <<a href="https://technosmarter.com/contact">contact</a> for any help and support .<br>
+ This is complete source code for Subscribe system in PHP and MYSQL .
 You will get instant reply feature in this subscribe system in PHP.
 # Developer
 <a href="https://technosmarter.com/">Techno Smarter</a>
